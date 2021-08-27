@@ -1,0 +1,4 @@
+/traffic_light_system
+.coverage
+htmlcov/
+venv/
